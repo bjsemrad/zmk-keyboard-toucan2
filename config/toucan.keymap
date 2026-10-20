@@ -61,7 +61,7 @@
             display-name = "BASE";
             bindings = <
             &none     &kp Q &kp W &kp E &kp R &kp T                 &kp Y &kp U &kp I     &kp O   &kp P     &none
-            &none     HRML(A,   S,    D,    F)    &kp G             &kp H HRMR(J,   K,        L,      SQT)    &none
+            &none     HRML(A,   S,    D,    F)    &kp G             &kp H HRMR(J,   K,        L,      SEMI)    &none
             &none     &kp Z &kp X &kp C &kp V &kp B                 &kp N &kp M &kp COMMA &kp DOT &kp SLASH &none
                         &mo SETTINGS &mo SYM &lt SYM2 SPACE         &kp ENTER &lt NAV BACKSPACE &mo FNC
             >;
